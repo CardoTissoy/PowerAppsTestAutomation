@@ -28,7 +28,7 @@ parameters:
    type: string
    default: All
    values:
-   - Chrome
+   - Chromium
    - Firefox
    - All
  - name: LoginMethod
